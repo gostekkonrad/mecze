@@ -1,0 +1,97 @@
+body{
+	margin:0;
+	padding:0;
+	background-color:gray;
+	background-image: url('https://thumbs.dreamstime.com/b/trawa-boisko-do-pi%C5%82ki-no%C5%BCnej-t%C5%82o-84246332.jpg');
+	font-family: "lucida console";
+	
+}
+
+
+td{
+	border: 2px solid black;
+	text-align:center;
+}
+table{
+	border: 2px solid black;
+	width:70%;
+	margin-left:15%;
+	margin-right:auto;
+	height:700px;
+	text-align:center;
+	border-top-right-radius: 30px;
+	border-top-left-radius: 30px;
+	border-bottom-right-radius: 30px;
+	border-bottom-left-radius: 30px;
+}
+#dolny{
+	height:150px;
+	text-align:center;
+	border-top-right-radius: 30px;
+}
+#siedem{
+	width:25%;
+
+	border-bottom-left-radius: 30px;
+}
+#osiem{
+	width:25%;
+
+}
+#dziewiec{
+	width:25%;
+
+}
+#dziesiec{
+	width:25%;
+
+	border-bottom-right-radius: 30px;
+}
+#gora{
+	#background-color:green;
+	border-top-left-radius: 30px;
+	background-color:MediumSeaGreen;
+}
+#jedynka{
+	border-top-left-radius: 30px;
+	border-top-right-radius: 30px;
+	font-size:45px;
+}
+footer{
+	text-align:center;
+	font-size:25px;
+}
+img:hover {
+    transform: scale(1.05);
+    -webkit-transform: scale(1.05);
+    -moz-transform: scale(1.05);
+    z-index: 0;
+}
+
+img{
+	border:1px double black;
+    transition-duration: 1s;
+	border-radius: 0px 0px 30px 30px;
+}
+header{
+	text-align:center;
+	margin:0;
+	padding:0;
+	font-size:30px;
+	color:white;
+}
+form{
+	text-align:center;
+
+}
+p{
+	text-align:center;
+	color:white;
+	margin-top:20%;
+	font-size:50px;
+}
+a{
+	color:white;
+}
+
+	
